@@ -1,0 +1,657 @@
+Encoder1: 56
+Encoder2: 182
+4: 327
+Ax: 20
+Ay: 60
+Az: 27
+Rx: 23
+Ry: 44
+Rz: 84
+Altitude: 14
+T
+emp: 49
+
+Encoder1: 303
+Encoder2: 154
+Encoder3: 
+158
+Encoder4: 251
+Ax: 31
+Ay: 94
+Az: 84
+Rx: 
+57
+Ry: 56
+Rz: 77
+Altitude: 18
+Temp: 45
+
+Encoder1: 68
+
+Encoder2: 216
+Encoder3: 15
+Encoder4: 279
+Ax
+: 33
+Ay: 91
+Az: 40
+Rx: 26
+Ry: 24
+Rz: 27
+Alt
+itude: 47
+Temp: 7
+
+Encoder1: 142
+Encoder2: 271
+Encod
+er3: 304
+Encoder4: 113
+Ax: 64
+Ay: 11
+Az: 47
+
+Rx: 9
+Ry: 37
+Rz: 28
+Altitude: 8
+Temp: 28
+
+Encoder1:
+ 99
+Encoder2: 212
+Encoder3: 22
+Encoder4: 333
+
+Ax: 62
+Ay: 94
+Az: 23
+Rx: 17
+Ry: 79
+Rz: 18
+
+Altitude: 68
+Temp: 44
+
+Encoder1: 198
+Encoder2: 199
+En
+coder3: 221
+Encoder4: 121
+Ax: 90
+Ay: 30
+Az: 
+93
+Rx: 18
+Ry: 39
+Rz: 15
+Altitude: 99
+Temp: 
+42
+
+Enco: 97
+Rz: 50
+Altitude
+: 36
+Temp: 26
+
+En
+coder1: 305
+Encoder2: 298
+Encoder3: 218
+Encod
+er4: 286
+Ax: 77
+Ay: 3
+Az: 6
+Rx: 53
+Ry: 61
+
+Rz: 28
+Altitude: 80
+Temp: 25
+
+Encoder1: 302
+Encoder2:
+ 326
+Encoder3: 14
+Encoder4: 326
+Ax: 11
+Ay: 1
+6
+Az: 4
+Rx: 50
+Ry: 83
+Rz: 15
+Altitude: 20
+T
+emp: 14
+
+Encoder1: 74
+Encoder2: 146
+Encoder3: 211
+En
+coder4: 255
+Ax: 78
+Ay: 95
+Az: 38
+Rx: 6
+Ry: 5
+9
+Rz: 30
+Altitude: 77
+Temp: 34
+
+Encoder1: 276
+Encode
+27
+Rx: 8
+Ry: 43
+Rz: 80
+Altitude: 1
+Tem
+p: 14
+Encoder1: 266
+Encoder2: 3
+Encoder3: 291
+Encoder4: 338
+Ax: 85
+Ay: 10
+Az: 27
+Rx: 8
+Ry: 43
+Rz: 80
+Altitude: 1
+Tem
+p: 14
+
+Encoder1: 159
+
+Encoder2: 290
+Encoder3: 318
+Encoder4: 109
+A
+x: 79
+Ay: 61
+Az: 38
+Rx: 64
+Ry: 65
+Rz: 51
+A
+ltitude: 7
+Temp: 41
+
+Encoder1: 29
+Encoder2: 230
+Encod
+er3: 177
+Encoder4: 42
+Ax: 47
+Ay: 53
+Az: 24
+
+Rx: 7
+Ry: 38
+Rz: 18
+Altitude: 26
+Temp: 8
+
+Encoder1: 
+: 151
+Encoder3: 249
+Encoder4: 67
+Ax: 81
+Ay: 21
+Az: 3
+Rx: 67
+Ry: 18
+Rz: 58
+Altitude: 44
+Temp: 47
+
+Encoder1: 80
+Encoder2: 41
+Enco
+der3: 286
+Encoder4: 168
+Ax: 47
+Ay: 49
+Az: 79
+
+Rx: 73
+Ry: 72
+Rz: 11
+Altitude: 9
+Temp: 30
+
+
+Encoder
+1: 268
+Encoder2: 239
+Encoder3: 247
+Encoder4: 
+287
+Ax: 1
+Ay: 41
+Az: 35
+Rx: 64
+Ry: 10
+Rz: 
+44
+Altitude: 32
+Temp: 43
+
+Encoder1: 25
+Encoder2: 98
+
+Encoder3: 14
+Encoder4: 252
+Ax: 67
+Ay: 94
+Az:
+ 37
+Rx: 59
+Ry: 45
+Rz: 12
+Altitude: 97
+Temp:
+ 10
+
+Enc
+oder1: 256
+Encoder2: 102
+Encoder3: 269
+Encode
+r4: 321
+Ax: 25
+Ay: 22
+Az: 11
+Rx: 41
+Ry: 68
+
+Rz: 37
+Altitude: 56
+Temp: 15
+
+Encoder1: 48
+Encoder2:
+ 206
+Encoder3: 148
+Encoder4: 328
+Ax: 46
+Ay: 
+41
+Az: 2
+Rx: 20
+Ry: 5
+Rz: 95
+Altitude: 55
+
+Temp: 7
+
+Encoder1: 26
+Encoder2: 81
+Encoder3: 345
+Enco
+0
+der1: 202
+Encoder2: 283
+Encoder3: 305
+Encoder4: 354
+Ax: 37
+Ay: 63
+Az: 52
+Rx: 43
+Ry: 12
+Rz: 43
+Altitude: 19
+Temp: 
+30
+der1: 202
+Encoder2: 283
+Encoder3: 305
+Encoder4: 354
+Ax: 37
+Ay: 63
+Az: 52
+Rx: 43
+Ry: 12
+Rz: 43
+Altitude: 19
+Temp: 
+Encoder1: 122
+Encoder2: 22
+y 71
+Az: 56
+Rx: 58
+Ry: 38
+Rz: 67
+Altitude: 43
+Temp: 22
+E
+ncoder1: 6
+Encoder2: 276
+Encoder3: 4
+Encoder4: 351
+Ax: 70
+Ay: 71
+Az: 56
+Rx: 58
+Ry: 38
+Rz: 67
+Altitude: 43
+Temp: 22
+E
+ncoder1: 6
+Encoder2: 276
+Encoder3: 4
+Encoder4: 351
+Ax: 70
+Ay: 71
+Az: 56
+Rx: 58
+Ry: 38
+Rz: 67
+Altitude: 43
+Temp: 22
+
+Enco
+der1: 164
+Encoder2: 300
+Encoder3: 312
+Encoder4
+: 313
+Ax: 28
+Ay: 35
+Az: 23
+Rx: 38
+Ry: 68
+R
+z: 8
+Altitude: 5
+Temp: 26
+
+Encoder1: 197
+Encoder2: 26
+3
+Encoder3: 325
+Encoder4: 48
+Ax: 64
+Ay: 37
+
+Az: 4
+Rx: 19
+Ry: 51
+Rz: 33
+Altitude: 99
+Tem
+p: 18
+
+E
+ncoder1: 54
+Encoder2: 99
+Encoder3: 145
+Encode
+r4: 133
+Ax: 55
+Ay: 22
+Az: 62
+Rx: 55
+Ry: 14
+
+Rz: 93
+Altitude: 85
+Temp: 14
+
+Encoder1: 122
+Encoder2
+: 171
+Encoder3: 269
+Encoder4: 292
+Ax: 40
+Ay:
+ 37
+Az: 87
+Rx: 23
+Ry: 58
+Rz: 71
+Altitude: 6
+3
+Temp: 41
+
+Encoder1: 103
+Encoder2: 181
+Encoder3: 69
+3: 123
+Encoder4: 25
+Ax: 10
+Ay: 67
+Az: 11
+Rx: 25
+Ry: 95
+Rz: 77
+Altitude: 45
+Temp: 37
+
+Encoder1: 161
+Encoder2: 
+358
+Encoder3: 172
+Encoder4: 7
+Ax: 95
+Ay: 19
+
+Az: 91
+Rx: 73
+Ry: 86
+Rz: 12
+Altitude: 40
+Te
+mp: 22
+
+Encoder1: 147
+Encoder2: 278
+Encoder3: 238
+Enc
+oder4: 164
+Ax: 76
+Ay: 36
+Az: 70
+Rx: 85
+Ry: 
+77
+Rz: 31
+Altitude: 69
+Temp: 29
+
+Encoder1: 351
+Encod
+er2: 53
+Encoder3: 266
+Encoder4: 131
+Ax: 12
+A
+y: 1
+Az: 6
+Rx: 16
+Ry: 32
+Rz: 79
+Altitude: 2
+3
+Temp: 10
+
+Encoder1: 45
+Encoder2: 331
+Encoder3: 30
+
+Encoder4: 301
+Ax: 51
+Ay: 7
+Az: 79
+Rx: 20
+Ry
+: 8
+Rz: 38
+Altitude: 39
+Temp: 14
+
+Encoder1: 301
+Enco4
+Al
+titude: 77
+Temp: 27
+der1: 218
+Encoder2: 161
+Encoder3: 176
+Encoder4: 156
+Ax: 37
+Ay: 85
+Az: 35
+Rx: 70
+Ry: 63
+Rz: 14
+Al
+titude: 77
+Temp: 27
+
+Encoder1: 96
+
+Encoder2: 131
+Encoder3: 250
+Encoder4: 242
+Ax
+: 62
+Ay: 73
+Az: 16
+Rx: 23
+Ry: 57
+Rz: 82
+Al
+titude: 18
+Temp: 16
+
+Encoder1: 147
+Encoder2: 141
+Enco
+der3: 116
+Encoder4: 280
+Ax: 36
+Ay: 42
+Az: 5
+
+Rx: 68
+Ry: 21
+Rz: 86
+Altitude: 62
+Temp: 15
+
+Encoder1
+: 179
+Encoder2: 65
+Encoder3: 154
+Encoder4: 16
+5
+Ax: 32
+Ay: 33
+Az: 20
+Rx: 9
+Ry: 72
+Rz: 14
+
+Altitude: 91
+Temp: 10
+
+Encoder1: 334
+Encoder2: 168
+
+Encoder3: 177
+Encoder4: 250
+Ax: 31
+Ay: 5
+Az:
+ 63
+Rx: 55
+Ry: 39
+Rz: 12
+Altitude: 95
+Temp:
+ 6
+
+Enco
+der1: 136
+Encoder2: 228
+Encoder3: 102
+Encoder
+4: 38
+Ax: 69
+Ay: 51
+Az: 93
+Rx: 35
+Ry: 39
+R
+z: 76
+Altitude: 55
+Temp: 42
+
+Encoder1: 197
+Encoder2: 
+97
+Encoder3: 43
+Encoder4: 167
+Ax: 70
+Ay: 13
+
+Az: 41
+Rx: 4
+Ry: 95
+Rz: 65
+Altitude: 48
+Te
+mp: 16
+
+Encoder1: 14
+Encoder2: 315
+Encoder3: 132
+Enco
+ 193
+Encoder4: 91
+Ax: 35
+Ay: 9
+Az: 48
+Rx: 38
+Ry: 81
+Rz: 97
+Altitude: 82
+Temp: 26
+
+Encoder1: 288
+Encoder2: 97
+Enc
+oder3: 281
+Encoder4: 48
+Ax: 84
+Ay: 19
+Az: 25
+
+Rx: 77
+Ry: 79
+Rz: 2
+Altitude: 45
+Temp: 4
+
+Encoder1
+: 283
+Encoder2: 318
+Encoder3: 145
+Encoder4: 2
+32
+Ax: 4
+Ay: 35
+Az: 32
+Rx: 24
+Ry: 53
+Rz: 3
+4
+Altitude: 51
+Temp: 33
+
