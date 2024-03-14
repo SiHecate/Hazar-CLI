@@ -10,12 +10,12 @@ type SensorData struct {
 	Encoder2 int
 	Encoder3 int
 	Encoder4 int
-	Ax       int
-	Ay       int
-	Az       int
-	Rx       int
-	Ry       int
-	Rz       int
-	Altitude int
-	Temp     int
+	Ax       float64
+	Ay       float64
+	Az       float64
+	Rx       float64
+	Ry       float64
+	Rz       float64
+	Altitude float64
+	Temp     float64
 }

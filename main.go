@@ -30,6 +30,7 @@ func main() {
 
 }
 
+// Todo: Aviyonik kart tarafından gelen veriler okunurken gelen veri satırlarını rastgele bir şekilde vermesinden dolayı switch-case yapısında problemler ortaya çıkıyor. Düzeltilmesi gerek.
 func ComRead() {
 	if err := ConnectComPort("/dev/ttyACM0"); err != nil {
 		log.Fatal(err)
@@ -57,93 +58,93 @@ func ComRead() {
 			case "Encoder1:":
 				value, err := strconv.Atoi(fields[i+1])
 				if err != nil {
-					fmt.Println("deneme")
+					datas.Encoder1 = -1
 				}
 				datas.Encoder1 = value
 
 			case "Encoder2:":
 				value, err := strconv.Atoi(fields[i+1])
 				if err != nil {
-					fmt.Println()
+					datas.Encoder2 = -1
 				}
 				datas.Encoder2 = value
 
 			case "Encoder3:":
 				value, err := strconv.Atoi(fields[i+1])
 				if err != nil {
-					fmt.Println()
+					datas.Encoder3 = -1
 				}
 				datas.Encoder3 = value
 
 			case "Encoder4:":
 				value, err := strconv.Atoi(fields[i+1])
 				if err != nil {
-					fmt.Println()
+					datas.Encoder4 = -1
 				}
 				datas.Encoder4 = value
 
 			case "Ax:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Ax = -1
 				}
 				datas.Ax = value
 
 			case "Ay:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Ay = -1
 				}
 				datas.Ay = value
 
 			case "Az:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Az = -1
 				}
 				datas.Az = value
 
 			case "Rx:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Rx = -1
 				}
 				datas.Rx = value
 
 			case "Ry:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Ry = -1
 				}
 				datas.Ry = value
 
 			case "Rz:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Rz = -1
 				}
 				datas.Rz = value
 
 			case "Altitude:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Altitude = -1
 				}
 				datas.Altitude = value
 
 			case "Temp:":
-				value, err := strconv.Atoi(fields[i+1])
+				value, err := strconv.ParseFloat(fields[i+1], 64)
 				if err != nil {
-					fmt.Println()
+					datas.Temp = -1
 				}
 				datas.Temp = value
 			}
-			// fmt.Println(datas)
+			fmt.Println(datas)
 		}
 	}
-
 }
 
+// Verilerin txt formatında kaydedilecek olan dosyanın kontrolünün yapılmasını sağlar.
 func FileCheck(fileName string) error {
 	_, err := os.Stat(fileName)
 	if err == nil {
@@ -162,6 +163,7 @@ func SaveToDatabase(data string) {
 
 }
 
+// Gelen verilerin txt formatında dosyaya kaydetmesini sağlar.
 func SaveToFile(data string) error {
 	fileName := "data.txt"
 	err := FileCheck(fileName)
@@ -179,6 +181,7 @@ func SaveToFile(data string) error {
 	return nil
 }
 
+// Com Port'a bağlanmayı sağlar.
 func ConnectComPort(address string) error {
 	c := &serial.Config{
 		Name: address,
@@ -193,6 +196,7 @@ func ConnectComPort(address string) error {
 	return nil
 }
 
+// Mevcut olan Com Portları listeler.
 func ComPorts() {
 	ports, err := serialRead.GetPortsList()
 	if err != nil {
